@@ -2,7 +2,9 @@
 
 This is an NLP only fork from <a href="https://github.com/tensorflow/models/tree/master/official"> tensorflow models</a>. The AIM is to build a smaller version of the original repository, including <i>only NLP</i> related material.
 
-
+Some Python Wheels I've built:
+ - r2.3.0 -> <a href="https://github.com/Gennaro-Farina/models-NLPOnly/tree/r2.3.0/dist">[Go to the Wheel]</a>
+ 
 The following is inherited directly from the original repository.
 
 <div align="center">
