@@ -160,6 +160,9 @@ official/legacy/image_classification/resnet/resnet_ctl_imagenet_main.py
 official/legacy/image_classification/resnet/resnet_model.py
 official/legacy/image_classification/resnet/resnet_runnable.py
 official/legacy/image_classification/resnet/tfhub_export.py
+official/legacy/nlp/__init__.py
+official/legacy/nlp/albert/__init__.py
+official/legacy/nlp/albert/configs.py
 official/legacy/transformer/__init__.py
 official/legacy/transformer/attention_layer.py
 official/legacy/transformer/beam_search_v1.py
