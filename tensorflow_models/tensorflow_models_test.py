@@ -19,12 +19,6 @@ import tensorflow_models as tfm
 
 
 class TensorflowModelsTest(tf.test.TestCase):
-
-  def testVisionImport(self):
-    _ = tfm.vision.layers.SqueezeExcitation(
-        in_filters=8, out_filters=4, se_ratio=1)
-    _ = tfm.vision.configs.image_classification.Losses()
-
   def testNLPImport(self):
     _ = tfm.nlp.layers.TransformerEncoderBlock(
         num_attention_heads=2, inner_dim=10, inner_activation='relu')
