@@ -738,4 +738,5 @@ tensorflow_models/nlp/__init__.py
 tf_models_official_nlp_only.egg-info/PKG-INFO
 tf_models_official_nlp_only.egg-info/SOURCES.txt
 tf_models_official_nlp_only.egg-info/dependency_links.txt
+tf_models_official_nlp_only.egg-info/requires.txt
 tf_models_official_nlp_only.egg-info/top_level.txt
