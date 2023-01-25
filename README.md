@@ -1,4 +1,6 @@
-# Aim of this fork
+# TF MODELS OFFICIAL - NLP ONLY 
+
+## Aim of this fork
 
 This is an NLP only fork from <a href="https://github.com/tensorflow/models/tree/master/official"> tensorflow models</a>. The AIM is to build a smaller version of the original repository, including <i>only NLP</i> related material.
 
@@ -7,6 +9,8 @@ Some Python Wheels I've built:
  - r2.8.0 -> <a href="https://github.com/Gennaro-Farina/models-NLPOnly/tree/r2.8.0/dist">[Link to the Wheel]</a>
  
 The following is inherited directly from the original repository.
+
+<hr style="border-top: 3px dotted #998143">
 
 <div align="center">
   <img src="https://storage.googleapis.com/tf_model_garden/tf_model_garden_logo.png">
